@@ -8,7 +8,7 @@
 <br/>
 
 **\[Description\]** <br/>
-&#8195;This branch is created for the first homework, which requires us to reproduce the work shown in [Probabilistic Matrix Factorization, Ruslan Salakhutdinov, Andriy Mnih, 2007](http://www.utstat.toronto.edu/~rsalakhu/papers/nips_draft2.pdf).
+&#8195;This branch is created for the first homework, which requires us to reproduce the work shown in [Probabilistic Matrix Factorization, Ruslan Salakhutdinov, Andriy Mnih, 2007](http://www.utstat.toronto.edu/~rsalakhu/papers/nips_draft2.pdf). <br/>
 &#8195;I am not gonna show all the details in this markdown file, instead, **I have already written a report (mainly for my latter usage) and put it under the "report" directory**. 
 
 <br/>
