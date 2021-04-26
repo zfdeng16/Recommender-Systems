@@ -1,5 +1,8 @@
 # Recommender-Systems HW: 2
 
+ID: 2020223040013
+Name: 邓梓烽
+
 ## 1. Abstract
 
 &#8195;This is my second article-reproducing homework. However, I must confess that I have not fully figured out the mechanism of this whole program (or, a *clear* and *thorough* understanding of the *heart* of this article (eg. GAN)), and thus, all I can do is fetching the [source program](https://github.com/changfengsun/LARA) provided by the authors of this article and try it out. <br/>
