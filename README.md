@@ -3,6 +3,9 @@
 ID: 2020223040013 <br/>
 Name: 邓梓烽
 
+> &#8195;Oh! **Github does not allow us to upload "BIG" files over 25MB**, and I have not figure out a systematic way to solve this problem. (There must be a way to work it out, since we are now in **BIG DATA ERA** literaly!!!) <br/>
+> &#8195;Hence, this time, I upload the core codes only. To reproduce my results, follow "**3. How to reproduce the results**" at the bottom.
+
 ## 1. Abstract
 
 &#8195;This is my second article-reproducing homework. However, I must confess that I have not fully figured out the mechanism of this whole program (or, a *clear* and *thorough* understanding of the *heart* of this article (eg. GAN)), and thus, all I can do is fetching the [source program](https://github.com/changfengsun/LARA) provided by the authors of this article and try it out. <br/>
@@ -45,8 +48,8 @@ Name: 邓梓烽
 
 ## 3. How to reproduce the results
 
-> &#8195;This is the most important part while the authors chose not to explain in details... : (
-> &#8195;Oh! By the way, these steps are for **Win10 OS** only.
+> &#8195;This is the most important part while the authors chose not to explain in details... : ( <br/>
+> &#8195;Oh! By the way, these steps are for **Win10 OS** only.<br/>
 
 1. Install Anaconda (lastest version can work).
 2. Create a new env branch, using python 3.6.
@@ -56,6 +59,8 @@ Name: 邓梓烽
   + `conda search tensorflow`
   + `conda install tensorflow-gpu=1.12.0`
 6. Install pandas, matplotlib on Anaconda's UI.
-7. Run "model.py" accordingly.
-8. **Wait for at least 45 mins and find something else to do, try not to be crazy**.
+7. Download [the data and other parts of codes](https://github.com/changfengsun/LARA) provided by the author.
+8. Replace "inzone_all_code\model\model.py" and "movie_all_code\model\model.py" with the files I uploaded accordingly.
+9. Run "XX.py" I uploaded above accordingly in the corresponding directories.
+10. **Wait for at least 45 mins and find something else to do, try not to be crazy**.
 
