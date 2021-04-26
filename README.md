@@ -46,6 +46,7 @@ Name: 邓梓烽
 ## 3. How to reproduce the results
 
 > &#8195;This is the most important part while the authors chose not to explain in details... : (
+> &#8195;Oh! By the way, these steps are for **Win10 OS** only.
 
 1. Install Anaconda (lastest version can work).
 2. Create a new env branch, using python 3.6.
